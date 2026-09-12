@@ -1,1 +1,1 @@
-# nanollm
+NanoLLM — Browser LLM All In One: Trainer + Generator (1→∞) + Chatbot + Downloader (up to 10M) + .nanollm Format — No API, No Server, Offline — EN 中文 한국어 日本語 — Hanam-si Gyeonggi-do — Transformer + n-gram hybrid — Language-matched, diverse answers — No same answer bug — 1 char to infinite, up to 2T (2TB) via hybrid repeat + chunked streaming + File System API + exponential copy-paste double to infinity
